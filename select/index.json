@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "base_track": "Sugarcoat (NATTY Solo)",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-03-25T00:51:03.056941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/01_Sugarcoat_(NATTY_Solo)_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo) (Sugarcoat (NATTY Solo))",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/02_Sugarcoat_(NATTY_Solo)_(Sugarcoat_(NATTY_Solo))_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/03_Sugarcoat_(NATTY_Solo)_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo) (Sugarcoat (NATTY Solo))",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/04_Sugarcoat_(NATTY_Solo)_(Sugarcoat_(NATTY_Solo))_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo) (Sugarcoat (NATTY Solo))",
+      "artist": "KISS OF LIFE - Topic",
+      "has_synced": true,
+      "path": "select/05_Sugarcoat_(NATTY_Solo)_(Sugarcoat_(NATTY_Solo))_KISS_OF_LIFE_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sugarcoat (NATTY Solo) (Paused)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/06_Sugarcoat_(NATTY_Solo)_(Paused)_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sugarcoat (NATTY Solo)",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_Sugarcoat_(NATTY_Solo)_KISS_OF_LIFE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Sugarcoat (NATTY Solo)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/localdb_01_Sugarcoat_(NATTY_Solo)_KISS_OF_LIFE.lrc",
+      "repo_name": "NaIRQ5v0914"
+    }
+  ]
+}
